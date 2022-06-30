@@ -1,6 +1,4 @@
-<?php 
-// PHP code to obtain country, city,  
-// continent, etc using IP Address 
+<?php
   
 $ip = $_SERVER['REMOTE_ADDR'];
 
